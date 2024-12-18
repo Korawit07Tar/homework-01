@@ -1,1 +1,51 @@
 # homework-01
+- git config --global user.name "Korawit"
+- git config --global user.email "66160017@go.buu.ac.th"
+- git clon https://github.com/Korawit07Tar/homework-01.git
+- git checkout -b development
+- git add .
+- git commit -m "สร้างโครงสร้างโปรเจคเริ่มต้น"
+- git checkout -b feature/hom-page
+- git add index.html
+- git commit -m "เพิ่มลิ้งค์ตัวอักษร"
+- git add index.html
+- git commit -m "เพิ่ม Berger และ ส่วนหนา UL"
+- git add index.html
+- git commit -m “เพิ่มหัวข้อใหญ่ ยินดีต้อนรับ และ รูปภาพ พร้อมคำอธิบายแนะนำจังหวัด"
+- git add index.html
+- git commit -m "ส่วนท้ายของเว็บไซต์"
+- git checkout -b feature/about
+- git add about.html
+- git commit -m "เพิ่มลิ้งค์ตัวอักษร"
+- git add about.html
+- git commit -m "เพิ่ม Berger และ ส่วนหนา UL"
+- git add about.html
+- git commit -m "เพิ่มหัวข้อใหญ่ 5 สถานที่ท่องเที่ยว และรูปภาพ พร้อมคำอธิบายแนะน้ำสถานที่ท่องเที่ยว" 
+- git add about.html
+- git commit -m "ส่วนท้ายของเว็บไซต์"
+- git checkout -b feature/contact 
+- git add contact.html
+- git commit -m "เพิ่มลิ้งค์ตัวอักษร"
+- git add contact.html
+- git commit -m "เพิ่ม Berger และ ส่วนหนา UL"
+- git add contact.html
+- git commit -m "เพิ่มหัวข้อใหญ่ รับข้อมูล ชื่อ-นามสกุล อีเมล เบอร์โทรศัพท์ ข้อความ และปุ่มสำหรับการส่งข้อมูล"
+- git add contact.html
+- git commit -m "ส่วนท้ายของเว็บไซต์"
+- git checkout -b feature/css
+- git add .\css\styles.css
+- git commit -m "กำหนดขนาดขององค์ประกอบ"
+- git add .\css\styles.css
+- git commit -m "ปรับแต่งขนาดของ body และสีของ font ส่วนของ header"
+- git add .\css\styles.css
+- git commit -m "ปรับแต่งขนาด burger"  
+- git add .\css\styles.css
+- git commit -m "ปรับขนาด สี และจัดตำแหน่ง nav ul"
+- git add .\css\styles.css
+- git commit -m "ปรับขนาด สี และจัดตำแหน่ง main ในเนื้อหาส่วนข้อมูลในเว็บ และปรับแต่งจัดตำแหน่งรูปภาพ"
+- git add .\css\styles.css
+- git commit -m "ปรับขนาด สี และจัดตำแหน่ง และ font ของ form และปุ่มสำหรับการส่ง"
+- git add .\css\styles.css
+- git commit -m "ปรับขนาด สี และจัดตำแหน่ง และ font ของ footer ส่วนท้ายของเว็บไซต์"
+- git checkout -b feature/image
+- git commit -m "เพิ่มรูปเข้า image"
