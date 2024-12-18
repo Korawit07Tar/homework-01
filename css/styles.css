@@ -4,3 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Body Styles */
+body {
+    font-family: 'Rubik Doodle Shadow', cursive, sans-serif;
+    background-color: #f6e9e9;
+    line-height: 2;
+    color: #000;
+}
+/* Header Styles */
+header {
+    background: linear-gradient(to right, rgb(211, 83, 83), rgb(255, 153, 0));
+    padding: 20px 32px;
+}
