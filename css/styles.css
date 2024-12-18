@@ -96,3 +96,50 @@ main section article p {
     margin: 0 20px;
     font-family: "Mitr", sans-serif;
 }
+/* Form Styles */
+form .form-group {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    font-family: 'Belanosima', sans-serif;
+}
+
+form input, 
+form textarea, 
+form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form input:focus, 
+form textarea:focus {
+    border-color: #ff6600;
+    outline: none;
+}
+
+form button {
+    background-color: #fd7f00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-family: 'Belanosima', sans-serif;
+    transition: 0.3s;
+}
+
+form button:hover {
+    background-color: #53493f;
+}
+
+form small {
+    color: #555;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
